@@ -1,0 +1,7 @@
+Por si acaso, esto no es nada. Ni caso.
+
+[default]
+aws_access_key_id = AKIAT4GVSAXXIGH5QCCX
+aws_secret_access_key = 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
+output = json
+region = us-east-2
